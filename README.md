@@ -1,6 +1,8 @@
 ## Welcome to RileyHub
 
-Riley is a Sloot
+Riley is a Sloot in many ways. But Most of all he is the definition of Scrange.
+
+                                                Rest in Pepparoni boyos
 
 [Ape](https://o8ocorbino8o.github.io/)
 
@@ -27,8 +29,33 @@ Riley is a Sloot
 
 ![Image](Mr.-Bean-Funny-Baby-Face-Picture.jpg)
 
+![Image](IMG_0571.PNG)
+
+![Image](IMG_0595.PNG)
+
+![Image](IMG_0604.JPG)
+
+![Image](IMG_0603.PNG)
+
+![Image](IMG_0616.JPG)
+
+![Image](IMG_0623.JPG)
+
+![Image](IMG_0804.JPG)
+
+![Image](IMG_0803.JPG)
+
+![Image](IMG_0806.PNG)
+
+![Image](IMG_0892.JPG)
+
+![Image](IMG_0918.JPG)
+
+
 [**BOOBS**](https://forum.roblox.com/Forum/ShowPost.aspx?PostID=94958740)
+
 
 
 <video src="IMG_1798.mp4" width="320" height="200" controls preload></video
 
+Thanks Boyos
