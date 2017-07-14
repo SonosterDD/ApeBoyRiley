@@ -6,7 +6,7 @@ Riley is a Sloot
 
 ![Image](spong1.jpg)
 
-![Audio](Creep Catchers (Prod By Sonik) - K-Blitz.mp3)
+<audio src=".mp3" controls preload></audio>
 
 meep
 
