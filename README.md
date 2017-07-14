@@ -2,9 +2,9 @@
 
 Riley is a Sloot in many ways. But Most of all he is the definition of Scrange.
 
-                                                Rest in Pepparoni boyos
+Rest in Pepparoni boyos
 
-[Ape](https://o8ocorbino8o.github.io/)
+[ApeMan](https://o8ocorbino8o.github.io/)
 
 ![Image](spong1.jpg)
 
@@ -57,5 +57,9 @@ Riley is a Sloot in many ways. But Most of all he is the definition of Scrange.
 
 
 <video src="IMG_1798.mp4" width="320" height="200" controls preload></video
+
+
+
+
 
 Thanks Boyos
