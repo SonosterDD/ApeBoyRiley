@@ -15,7 +15,6 @@ Riley is a Sloot
 <audio src="Imperial March (Goblins from Mars Trap Remix) - Star Wars.mp3
 " controls preload></audio>
 
-meep
 ![Image](Domestic.PNG)
 
 ![Image](crazy-eyes.jpg)
@@ -30,4 +29,6 @@ meep
 
 [**BOOBS**](https://forum.roblox.com/Forum/ShowPost.aspx?PostID=94958740)
 
-IMG_1798.mp4
+
+<video src="IMG_1798.mp4" width="320" height="200" controls preload></video
+
